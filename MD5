@@ -1,0 +1,15 @@
+b0a0cc4cc2aa4b89001c3255ebeb21c3 *DESCRIPTION
+0415cc42e49162c660c31e1c33153a9d *LICENSE
+9c97ba811dd7c0e52e88e2b9520e54f7 *NAMESPACE
+7ddbed416ce90939c758a696bff8e5f5 *R/func_bnpmediation.R
+fce5639bb5637c671a1c8fea4990270c *R/func_conmediation.R
+b3e9555234a3a1fc882463f39f4bce80 *R/func_outsamples.R
+1333c58a223dc00ee9d9111dc8c45ef3 *R/func_ploteffects.R
+a6c40dd29eb57d3d605b30781570fe04 *R/sysdata.rda
+d879b14c601b0af49d988584b8d562ca *README.md
+60de358ad8024d831cf1967f4d3033c0 *man/OutSamples.Rd
+ddd929411251b504c4f2e1959037c741 *man/bnpconmediation.Rd
+12efff3676c2e153bdcca44ce1d626d2 *man/bnpmediation.Rd
+cb169f0138ad642bd1e80277a87ac2f8 *man/plot_effects.Rd
+8aa1e050070d1ea199655f857ba125d9 *tests/testthat.R
+69c7ec96bfb9dc804ae42e4080782c19 *tests/testthat/test-functionality.R
